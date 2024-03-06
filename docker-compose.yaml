@@ -4,6 +4,8 @@ services:
     build:
       context: .
       dockerfile: ./docker/Dockerfile
+    environment:
+      - TZ=Europe/Minsk
     container_name: epg
 #    command:
 #      - npm run grab -- --channels=channels.xml --cron="* * * * *"
