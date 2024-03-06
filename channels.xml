@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+
+
+    <channel site="digiturk.com.tr" lang="tr" xmltv_id="beINSports1.tr" site_id="77">beIN SPORTS 1 [TR]</channel>
+    <channel site="digiturk.com.tr" lang="tr" xmltv_id="beINSports2.tr" site_id="78">beIN SPORTS 2 [TR]</channel>
+    <channel site="digiturk.com.tr" lang="tr" xmltv_id="beINSports3.tr" site_id="79">beIN SPORTS 3 [TR]</channel>
+    <channel site="digiturk.com.tr" lang="tr" xmltv_id="beINSports4.tr" site_id="80">beIN SPORTS 4 [TR]</channel>
+    <channel site="digiturk.com.tr" lang="tr" xmltv_id="beINSports5.tr" site_id="81">beIN SPORTS 5 [TR]</channel>
+
+<!--    <channel site="beinsports.com" lang="en" xmltv_id="" site_id="7C714598-E7ED-4B0F-8BD1-E8E80D473922">beIN SPORTS 3</channel>-->
+<!--    <channel site="beinsports.com" lang="en" xmltv_id="" site_id="DDFC8C16-6363-4A2C-AE66-2CE357DBC28E">beIN SPORTS 2</channel>-->
+<!--    <channel site="beinsports.com" lang="en" xmltv_id="beINSports1.my" site_id="0FA3DEF0-234B-4E25-934F-392DF2C3162C">beIN SPORTS</channel>-->
+
+    <channel site="beinsports.com" lang="fr" xmltv_id="beINSports1.fr" site_id="66265DD1-D2AA-4A89-9412-2455186E90ED">beIN SPORTS 1 [BE]</channel>
+    <channel site="beinsports.com" lang="fr" xmltv_id="beINSports2.fr" site_id="1E886E98-3104-4D8E-A97F-734B23108E8A">beIN SPORTS 2 [BE]</channel>
+    <channel site="beinsports.com" lang="fr" xmltv_id="beINSports3.fr" site_id="6DB008B8-66DA-423E-805D-616211D4B174">beIN SPORTS 3 [BE]</channel>
+
+    <channel site="programtv.onet.pl" lang="pl" xmltv_id="CanalPlusSport.pl" site_id="canal-sport-14">CANAL+ Sport [PL]</channel>
+    <channel site="programtv.onet.pl" lang="pl" xmltv_id="CanalPlusSport2.pl" site_id="canal-sport-2-15">CANAL+ Sport 2</channel>
+    <channel site="programtv.onet.pl" lang="pl" xmltv_id="CanalPlusSport3.pl" site_id="canal-sport-3-674">CANAL+ Sport 3</channel>
+    <channel site="programtv.onet.pl" lang="pl" xmltv_id="CanalPlusSport4.pl" site_id="canal-sport-4-675">CANAL+ Sport 4</channel>
+
+<!--    <channel site="canalplus.com" lang="fr" xmltv_id="" site_id="cf#180625">CANAL+ SPORT 1</channel>-->
+<!--    <channel site="canalplus.com" lang="fr" xmltv_id="" site_id="cf#180124">CANAL+ SPORT 2</channel>-->
+<!--    <channel site="canalplus.com" lang="fr" xmltv_id="" site_id="cf#180149">CANAL+ SPORT 3</channel>-->
+<!--    <channel site="canalplus.com" lang="fr" xmltv_id="" site_id="cf#180393">CANAL+ SPORT 4</channel>-->
+<!--    <channel site="canalplus.com" lang="fr" xmltv_id="" site_id="cf#180394">CANAL+ SPORT 5</channel>-->
+
+    <channel site="tvheute.at" lang="de" xmltv_id="DAZN1.de" site_id="dazn">DAZN 1</channel>
+    <channel site="sky.de" lang="de" xmltv_id="DAZN2HD.de" site_id="900">DAZN 2 HD</channel>
+    <channel site="movistarplus.es" lang="es" xmltv_id="DAZN3.es" site_id="DAZN3">DAZN 3</channel>
+    <channel site="meo.pt" lang="pt" xmltv_id="Eleven1.pt" site_id="ELEVEN1">DAZN Eleven 1</channel>
+    <channel site="meo.pt" lang="pt" xmltv_id="Eleven2.pt" site_id="ELEVEN2">DAZN Eleven 2</channel>
+    <channel site="meo.pt" lang="pt" xmltv_id="Eleven3.pt" site_id="ELEVEN3">DAZN Eleven 3</channel>
+    <channel site="meo.pt" lang="pt" xmltv_id="Eleven4.pt" site_id="ELEVEN4">DAZN Eleven 4</channel>
+
+    <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports1.pl" site_id="eleven-208">Eleven Sports 1</channel>
+    <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports2.pl" site_id="eleven-sports-212">Eleven Sports 2</channel>
+    <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports3.pl" site_id="eleven-extra-531">Eleven Sports 3</channel>
+    <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports4.pl" site_id="eleven-sports-4-607">Eleven Sports 4</channel>
+    <channel site="telenet.tv" lang="nl" xmltv_id="Eleven1.be" site_id="11football">DAZN Eleven Sports 1</channel>
+    <channel site="telenet.tv" lang="nl" xmltv_id="Eleven2.be" site_id="11sports">DAZN Eleven Sports 2</channel>
+    <channel site="telenet.tv" lang="nl" xmltv_id="Eleven3.be" site_id="11sports3">DAZN Eleven Sports 3</channel>
+
+    <channel site="sky.com" lang="en" xmltv_id="TNTSports1.uk" site_id="3661">TNT Sports 1</channel>
+
+
+    <channel site="magticom.ge" lang="ka" xmltv_id="SetantaSportsGeorgia.ge" site_id="68351">Setanta Sports 1</channel>
+    <channel site="magticom.ge" lang="ka" xmltv_id="SetantaSportsPlusGeorgia.ge" site_id="68352">Setanta Sports 2</channel>
+    <channel site="magticom.ge" lang="ka" xmltv_id="Adjarasport1.ge" site_id="121">Setanta Sports 3</channel>
+
+    <channel site="tv.mail.ru" lang="ru" xmltv_id="SetantaSports1.ru" site_id="1860">Setanta Sports 1</channel>
+    <channel site="tv.mail.ru" lang="ru" xmltv_id="SetantaSports2.ru" site_id="2454">Setanta Sports 2</channel>
+
+    <channel site="tv.post.lu" lang="de" xmltv_id="SkySportBundesliga1.de" site_id="0b26c730-81e7-11e9-b43b-9d7b168e6372">Sky Sport Bundesliga 1</channel>
+    <channel site="tv.post.lu" lang="de" xmltv_id="SkySportBundesliga2.de" site_id="15aabbd0-81e7-11e9-b43b-9d7b168e6372">Sky Sport Bundesliga 2</channel>
+<!--    <channel site="tv.post.lu" lang="de" xmltv_id="SkySportBundesliga3.de" site_id="2112f5f0-81e7-11e9-b43b-9d7b168e6372">Sky Sport Bundesliga 3</channel>-->
+<!--    <channel site="tv.post.lu" lang="de" xmltv_id="SkySportBundesliga4.de" site_id="2b2e64c0-81e7-11e9-b43b-9d7b168e6372">Sky Sport Bundesliga 4</channel>-->
+<!--    <channel site="tv.post.lu" lang="de" xmltv_id="SkySportBundesliga5.de" site_id="345c6650-81e7-11e9-b43b-9d7b168e6372">Sky Sport Bundesliga 5</channel>-->
+<!--    <channel site="tv.post.lu" lang="de" xmltv_id="SkySportBundesliga6.de" site_id="3dc8d070-81e7-11e9-b43b-9d7b168e6372">Sky Sport Bundesliga 6</channel>-->
+<!--    <channel site="tv.post.lu" lang="de" xmltv_id="SkySportBundesliga7.de" site_id="46eb8760-81e7-11e9-b43b-9d7b168e6372">Sky Sport Bundesliga 7</channel>-->
+<!--    <channel site="tv.post.lu" lang="de" xmltv_id="SkySportBundesliga8.de" site_id="4fa124a0-81e7-11e9-b43b-9d7b168e6372">Sky Sport Bundesliga 8</channel>-->
+<!--    <channel site="tv.post.lu" lang="de" xmltv_id="SkySportBundesliga9.de" site_id="587df8f0-81e7-11e9-b43b-9d7b168e6372">Sky Sport Bundesliga 9</channel>-->
+<!--    <channel site="tv.post.lu" lang="de" xmltv_id="SkySportBundesliga10.de" site_id="6e6f2e90-81d8-11e9-b43b-9d7b168e6372">Sky Sport Bundesliga 10</channel>-->
+<!--    <channel site="tv.post.lu" lang="de" xmltv_id="SkySportBundesligaUHD.de" site_id="029839f0-81e7-11e9-b43b-9d7b168e6372">Sky Sport Bundesliga UHD</channel>-->
+
+    <channel site="tv.magenta.at" lang="de" xmltv_id="SkySportPremierLeagueHD.de" site_id="301712936303">Sky Sport Premier League HD</channel>
+    <channel site="sky.com" lang="en" xmltv_id="SkySportsFootball.uk" site_id="3838">SkySp F'ball</channel>
+    <channel site="superguidatv.it" lang="it" xmltv_id="SkySportFootball.it" site_id="sky-sport-football-hd/sky-sport/39">Sky Sport Football HD</channel>
+    <channel site="sky.com" lang="en" xmltv_id="SkySportsMainEvent.uk" site_id="1301">SKY SPORTS MAIN EVENT</channel>
+    <channel site="tv.mail.ru" lang="ru" xmltv_id="FootballHD.ru" site_id="2802">Футбол HD</channel>
+
+</channels>

@@ -1,5 +1,5 @@
 /node_modules/
 /temp/
-/channels.xml
 /guide.xml
 /guide.xml.gz
+/yarn.lock

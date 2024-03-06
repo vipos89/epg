@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  epg:
+    build:
+      context: .
+      dockerfile: ./docker/Dockerfile
+    container_name: epg
+#    command:
+#      - npm run grab -- --channels=channels.xml --cron="* * * * *"
+    volumes:
+      - ./:/app
+    tty: true

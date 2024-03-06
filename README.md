@@ -172,3 +172,7 @@ And thank you to everyone who has already contributed!
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
+
+## run in background mode
+
+pm2 start "npm run grab -- --channels=channels.xml --cron='*/5 * * * *'" --name cron
