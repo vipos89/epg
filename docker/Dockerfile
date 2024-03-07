@@ -7,13 +7,18 @@ WORKDIR /app
 
 COPY package*.json ./
 
-# Install dependencies
-#RUN yarn install
+
+
 
 # Copy the application files
 COPY . .
 
+# Install dependencies
+RUN yarn install
+
+
+
 # Expose the port
 EXPOSE 3000
 
-#CMD [ "npm", "run grab -- --channels=channels.xml --cron='*/5 * * * *'" ]
+CMD [ "pm2-runtime", "start", "ecosystem.config.js" ]

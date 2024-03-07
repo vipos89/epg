@@ -7,8 +7,9 @@ services:
     environment:
       - TZ=Europe/Minsk
     container_name: epg
-#    command:
-#      - npm run grab -- --channels=channels.xml --cron="* * * * *"
+    ports:
+      - "3000:3000"
+
     volumes:
       - ./:/app
     tty: true
